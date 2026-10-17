@@ -1,16 +1,37 @@
-## Hi there 👋
+# Pierre-Olivier Bolduc
 
-<!--
-**pobol2/pobol2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a robotics engineer with a Master's degree in Mechanical Engineering (Robotics) from **Université Laval**, Canada.
 
-Here are some ideas to get you started:
+My interests lie at the intersection of robotics, mathematics, and computational engineering. I enjoy developing algorithms, exploring mathematical formulations, and turning theoretical ideas into practical software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### [The Topology of Slicing](https://github.com/pobol2/Topology-of-Slicing)
+**Additive Manufacturing · Computational Geometry · Robot Motion Planning**
+
+An independent research project exploring a general mathematical framework for additive manufacturing slicers.
+
+The project introduces a map-chain formulation that separates path generation, geometry, and machine configuration. It investigates volumetric slicing using three-dimensional Hilbert curves, optimal transport, and kinematics-first planning.
+
+Includes a research paper, Python/C++ implementations, computational experiments, and reproducible figures.
+
+### [Landau–Lifshitz Mechanics: Solution Manual](https://github.com/pobol2/Mechanics-Landau-Solution)
+**Classical Mechanics · Mathematical Physics · LaTeX**
+
+An ongoing collection of detailed, independently developed solutions to problems from *Mechanics* by L. D. Landau and E. M. Lifshitz.
+
+The project includes mathematical derivations, illustrations, and a structured LaTeX solution manual.
+
+**[Read the solutions online](https://pobol2.github.io/Mechanics-Landau-Solution/)**
+
+### [Solution Manual Template](https://github.com/pobol2/Solution-Manual-Template)
+**LaTeX · Technical Documentation · Automation**
+
+A reusable LaTeX framework for producing structured textbook solution manuals, including mathematical formatting, TikZ figures, automatic compilation, and progress tracking.
+
+### [PCMode](https://github.com/pobol2/PCMode)
+**Windows Automation · Systems Programming · Audio Processing**
+
+A Windows application for coordinating desktop environments through configurable profiles.
+
+Integrates display management, audio routing and processing, lighting, application control, and external devices through a modular .NET architecture.
