@@ -35,3 +35,12 @@ A reusable LaTeX framework for producing structured textbook solution manuals, i
 A Windows application for coordinating desktop environments through configurable profiles.
 
 Integrates display management, audio routing and processing, lighting, application control, and external devices through a modular .NET architecture.
+
+### [Shift, Then Turn](https://github.com/pobol2/Shift-Then-Turn)
+**Robotic Manipulation · Extrinsic Dexterity · Contact Mechanics**
+
+A research project on planar in-grasp manipulation using a parallel gripper and two passive rods.
+
+Develops closed-form geometric constructions for shifting and turning an object within the grasp, with hardware experiments and MuJoCo simulations validating the approach.
+
+Includes the research paper, Python implementations, simulation results, and reproducible figures.
